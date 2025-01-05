@@ -1,0 +1,7 @@
+region="eu-west-1"
+project_name="capricorn-dev"
+vpc_cidr="14.0.0.0/24"
+public_subnet_cidr_az1="14.0.0.16/28"
+private_data_subnet_cidr_az2="14.0.0.32/28"
+instance_type="t2.micro"
+env="dev"

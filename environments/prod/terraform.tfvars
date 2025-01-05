@@ -1,0 +1,7 @@
+region="eu-central-1"
+project_name="capricorn-prod"
+vpc_cidr="14.1.0.0/24"
+public_subnet_cidr_az1="14.1.0.16/28"
+private_data_subnet_cidr_az2="14.1.0.32/28"
+instance_type="t2.micro"
+env="prod"
