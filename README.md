@@ -345,6 +345,6 @@ Contributions to this project are highly welcomed. If you would like to contribu
 
 ## 14. Conclusion
 
-This documentation provides a comprehensive guide to the Terraform project structure, configurations, and best practices. If you have any questions or need further assistance, please don't hesitate to reach out to [me](https://twitter.com/qurtana) or the project contributors.
+This documentation provides a comprehensive guide to the Terraform project structure, configurations, and best practices. If you have any questions or need further assistance, please don't hesitate to reach out to [me](https://x.com/___elohor) or the project contributors.
 
 Thank you for using this project, and best of luck with your cloud engineering endeavors!
